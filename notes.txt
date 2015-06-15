@@ -1,0 +1,7 @@
+not having to return div threw an error saying syntax error! -- Dig in more!
+.map function - how is it available in reactjs
+what are the components did mount functions
+getInitialState is called exactly once in the lifecycle of a component
+jquery ajax thingy
+.bind(this) - what does it do exactly?
+setInterval
